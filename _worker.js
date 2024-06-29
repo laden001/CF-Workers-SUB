@@ -11,9 +11,7 @@ let total = 99;//TB
 let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
-let MainData = `
-
-`
+let MainData = ``
 
 let urls = [];
 let subconverter = "https://9ecbf4c6.bpb-worker-panel-3f9.pages.dev/sub/89b3cbba-e6ac-485a-9481-976a0415eab9#BPB-Normal"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
